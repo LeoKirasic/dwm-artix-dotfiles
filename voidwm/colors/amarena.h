@@ -1,0 +1,19 @@
+/* https://github.com/elenapan/dotfiles/blob/master/.xfiles/amarena */
+static char foreground[]    = "#FFFFFF";
+static char background[]    = "#1C1E26";
+static char color0[]        = "#16161C";
+static char color8[]        = "#1A1C23";
+static char color1[]        = "#E95379";
+static char color9[]        = "#F43E5C";
+static char color2[]        = "#27D796";
+static char color10[]       = "#09F7A0";
+static char color3[]        = "#E9436F";
+static char color11[]       = "#F26190";
+static char color4[]        = "#21BFC2";
+static char color12[]       = "#4CB9D6";
+static char color5[]        = "#CD84C8";
+static char color13[]       = "#C269BC";
+static char color6[]        = "#7FE4D2";
+static char color14[]       = "#58D6BF";
+static char color7[]        = "#FFFFFF";
+static char color15[]       = "#F4F5F2";
