@@ -4,3 +4,5 @@
 Dwm config heavily based off of voidwm
 
 ![Rice](https://i.imgur.com/YKVsCLv.png)
+
+Inspired by the [Horizon theme](https://horizontheme.netlify.app/).
